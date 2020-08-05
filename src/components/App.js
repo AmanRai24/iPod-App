@@ -1,4 +1,6 @@
 import React from 'react';
+import Screen from './Screen';
+import Wheel from './Wheel';
 import ZingTouch from 'zingtouch';
 
 class App extends React.Component{
