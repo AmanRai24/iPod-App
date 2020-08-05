@@ -7,3 +7,61 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: whitesmoke;
 }
+
+/* App styling */
+.App{
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  height: 430px;
+  width: 250px;
+  padding: 10px 10px;
+  border-radius: 20px;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+  margin: 5% auto;
+  background-color: gray;
+  box-shadow: inset 5px 5px 20px #151313;
+  -webkit-box-reflect: below 2px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(75%, transparent), to(rgba(199, 187, 187, 0.5)));
+}
+
+/* Wheel Styling */
+.container{
+  position: relative;
+  height: 200px;
+  width: 250px;
+  padding-top: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto;
+}
+
+.outer-circle{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: gainsboro;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inner-circle{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: gray;
+}
+
+/* Screen Styling */
+.screen-container{
+  height: 200px;
+  width: 250px;
+  margin-bottom: 5px;
+  background-image: url(https://thetechjunkgigs.files.wordpress.com/2017/02/mu.jpg?w=594);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
