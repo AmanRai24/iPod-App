@@ -175,7 +175,7 @@ class App extends React.Component{
       submenu: false
     })
     let display = document.getElementById('screen-container');
-    display.style.backgroundImage="url('https://thetechjunkgigs.files.wordpress.com/2017/02/mu.jpg?w=594')";
+    display.style.backgroundImage="url('https://i2.wp.com/www.worldwidemusicfactory.com/wp-content/uploads/2016/05/Music-nature0-e1462918049932.jpg?fit=733%2C434&ssl=1')";
   }
 
   // hide menu when select the selected item
