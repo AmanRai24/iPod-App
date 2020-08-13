@@ -15,7 +15,7 @@ This project use `ZingTouch` to move the mouse in a circular fashion and select 
 
 ## Screenshot
 
-![Homepage](image/1.JPG)
+![Homepage](images/1.JPG)
 
 ## How to Use & Run
 1. Clone the project or download the zip folder.
